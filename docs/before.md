@@ -15,7 +15,7 @@
     如果您只能使用它来解锁，请务必打开**设备管理器**，查找您的设备并更新驱动。  
     建议点击菜单里加入讨论组以寻求此方面的帮助。
 
-您需要准备以下文件：
+您需要准备以下文件： 
 
 - [platform-tools](https://android-docs.cn/tools/releases/platform-tools#downloads)
 - [usb-driver](https://android-docs.cn/studio/run/win-usb)[^1]
