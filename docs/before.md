@@ -43,7 +43,7 @@
 3. 右键 android_winusb.inf, 点击安装
 4. 在新弹出的窗口中点击安装![3](https://img.cf.cdn.flyyoung.org/file/mi-8e-unlock/before/3.webp)
 5. 手机进入 FASTBOOT 模式并连接电脑，运行 `fastboot devices`, 如果能识别设备则驱动正确配置
-6. 如果没有，请看[这篇文章](https://blog.csdn.net/qz2014728/article/details/101760398)解决
+6. 如果没有，请看[这篇文章](https://www.cnblogs.com/changweijinghu/p/16880803.html)解决
 
 ### Android/Linux
 !!! info
